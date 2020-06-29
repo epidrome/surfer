@@ -1,0 +1,57 @@
+title: Surfer 
+author:
+  name: Konstantinos Chorianopoulos
+  email: surfer@epidro.me
+description: >- # this means to ignore newlines until "baseurl:"
+  Image gallery (similar to Instagram, minus the vanity) with
+  photos about surfing. You can follow the updates with the
+  RSS feed, email a private message, or post a public comment
+  at the respective Github Issue.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+#
+
+minima:
+  skin: dark
+
+collections:
+  photos:
+    output: true
+    permalink: /:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "photos"
+    values:
+      layout: "photos"
