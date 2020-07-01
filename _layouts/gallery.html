@@ -1,0 +1,25 @@
+---
+layout: default
+---
+    <div ID="ngy2p" data-nanogallery2='{
+        "itemsBaseURL": "{{ site.photos-baseurl }}",
+        "thumbnailWidth": "200",
+        "thumbnailHeight": 200,
+        "thumbnailBorderVertical": 0,
+        "thumbnailBorderHorizontal": 0,
+        "thumbnailLabel": {
+          "position": "overImageOnBottom",
+          "display": false
+        },
+        "galleryDisplayMode": "rows",
+        "galleryMaxRows":      2,
+        "galleryLastRowFull":  true,
+        "thumbnailAlignment": "center",
+        "thumbnailGutterWidth": 20,
+        "thumbnailGutterHeight": 20
+      }'>
+
+        {% for photo in site.photos %}<a href="{{ photo.img  }}" data-ngthumb="{{  photo.img  }}" data-ngdesc="">{{ photo.img  }}</a>
+         {% endfor %}
+
+    </div>

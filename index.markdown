@@ -1,7 +1,3 @@
 ---
-layout: default 
+layout: gallery 
 ---
-{% for photo in site.photos %}
-<p><a href="{{ photo.url }}"><img src="{{ photo.img }}"></a>
-{% endfor %}
-
