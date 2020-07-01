@@ -1,9 +1,13 @@
 ---
 layout: page
-title: About
 permalink: about.html 
 ---
-There is a lot of software available for managing image galleries. Of course, just like any piece of software, current digital photo albums make several assumptions that might not be suitable.
+
+## Surf photography
+The photos in this digital album stand for a rather small and non representative sample of surf and photography. In my experience as a photographer and as a surfer, I have found that the best moments are to be experienced with full engagement and almost zero gadgets. 
+
+## Some notes on image gallery software
+There is a lot of software available for managing image galleries. Of course, just like any piece of software, current digital photo albums make several assumptions that might not be suitable, depending on the requirements.
 
 The specification I was looking for included:
 
