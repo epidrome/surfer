@@ -17,10 +17,10 @@ The specification I was looking for included:
 * Flexibility to choose the web site theme and the image viewer library.
 
 ## Image files are stored in github issues
-In this way, the git history remains clean of files that cannot be tracked and, at the same time, github issues provides social reactions and comments. Moreover, github issues provides notifications if you choose to watch the repository.
+In this way, the git history remains clean of files that cannot be tracked and. Moreover, github issues provides notifications if you choose to watch the repository. Currently, posting an image also requires adding the image filename in the `_config.yml`.
 
 ## Slow social features
-It is nice to receive an email that is thoughtful and meaningful. You know, the kind of communication that once people used to have on paper mail, before email chat, attachments, notifications, newsletters, and spam. By the way of storing images in github issues, we get out of the box likes and comments. It is yet unclear, whether this is a bug, or a feature.
+It is nice to receive a personal message that is thoughtful and meaningful. You know, the kind of communication that, not so long ago, people used to have on paper mail, before email chat, attachments, notifications, newsletters, and spam. By the way of storing images in github issues, we get out of the box social reactions (including dislikes), tags (labels) and comments. It is yet unclear, whether this is a bug, or a feature.
 
 ## Dependencies
 
