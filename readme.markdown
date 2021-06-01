@@ -27,4 +27,10 @@ It is nice to receive a personal message that is thoughtful and meaningful. You 
 * [Jekyll Minima](https://github.com/jekyll/minima) is already flexible enough with skins, social media icons, and configuration files.
 * [nanogallery](https://nanogallery2.nanostudio.org) has been implemented as a jekyll minima custom head and a jekyll layout.
 
+## Alternatives
+
+Why bother with this piece of (fragile) software that requires you to understand the inner workings of some machinery? Just use instagram, but be careful not to be used by it ;)
+
+> Επειδή πραγματικά η εξάρτηση από το "στιγμιότυπο" (που είναι ασφαλώς μια πτώση) βρίσκει απήχηση οπουδήποτε η εμπιστοσύνη στις αυτάρκεις πνευματικές δυνάμεις του ανθρώπου κλονίζεται. Οδυσσέας Ελύτης, Απ- και εικονίζω, Εν Λευκώ.
+
 
