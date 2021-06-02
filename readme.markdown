@@ -4,8 +4,10 @@ title: About
 permalink: about.html 
 ---
 
-## Surf photography
-The photos in this digital album stand for a rather small and non representative sample of surf and photography. In my experience, as a photographer and as a surfer, I have found that the best moments in life are to be experienced with full engagement and almost zero gadgets. 
+> Επειδή πραγματικά η εξάρτηση από το "στιγμιότυπο" (που είναι ασφαλώς μια πτώση) βρίσκει απήχηση οπουδήποτε η εμπιστοσύνη στις αυτάρκεις πνευματικές δυνάμεις του ανθρώπου κλονίζεται. Οδυσσέας Ελύτης, Τα μικρά έψιλον: Απ- και εικονίζω, Εν Λευκώ.
+
+## Surfing, photography, and life
+The photos in this digital album stand for a rather small and non representative sample of surf and photography. In my experience, as a photographer and as a surfer, I have found that the best moments in life are to be experienced with full engagement and almost zero gadgets. Indeed, early surfboards were handmade and did not have any fins, while early surfers did not wear any fancy (branded) swimwear.
 
 ## Some notes on image gallery software
 There is a lot of software available for managing image galleries. Of course, just like any piece of software, current digital photo albums make several assumptions that might not be suitable, depending on the requirements.
@@ -31,6 +33,5 @@ It is nice to receive a personal message that is thoughtful and meaningful. You 
 
 Why bother with this piece of (fragile) software that requires you to understand the inner workings of some machinery? Just use instagram, but be careful not to be used by it ;)
 
-> Επειδή πραγματικά η εξάρτηση από το "στιγμιότυπο" (που είναι ασφαλώς μια πτώση) βρίσκει απήχηση οπουδήποτε η εμπιστοσύνη στις αυτάρκεις πνευματικές δυνάμεις του ανθρώπου κλονίζεται. Οδυσσέας Ελύτης, Απ- και εικονίζω, Εν Λευκώ.
 
 
