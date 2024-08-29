@@ -19,7 +19,7 @@ layout: default
         "thumbnailGutterHeight": 20
       }'>
 
-        {% for photo in site.photos %}<a href="{{ photo.img  }}" data-ngthumb="{{  photo.img  }}" data-ngdesc="">{{ photo.img  }}</a>
+        {% for photo in site.photos %}<a href="{{ photo.img  }}/" data-ngthumb="{{  photo.img  }}" data-ngdesc="">{{ photo.img  }}</a>
          {% endfor %}
 
     </div>
