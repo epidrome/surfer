@@ -22,21 +22,25 @@ minima:
 photos:
  - img: b87e5d70-40e7-4ab1-966b-6a6a7a3bc060 
  - img: 342fea0b-f1e0-44e3-8040-37f3c9c02936 
+ - img: 6a41e9eb-96c5-4c57-adba-216e8df4313f 
+ - img: 3db60d97-1763-47de-9cf7-78a422723c9d
+ - img: 5b788224-ca88-4f48-b006-d8c3303f83ba
  - img: 1ac86098-2f45-4103-89ff-308232598fb0
  - img: 9057b629-2e5f-4e46-b459-908ff054b590
  - img: 7ef8df53-c32e-4ab7-a700-6eca40d247b5
- - img: 52e79482-b93e-4528-9982-f7693a5316c0
  - img: 4662cfea-7a23-4f33-9faa-ffedc38552af
  - img: 233a27e5-828d-41ab-b592-8c26e3517c62
  - img: 0a7ad746-a195-4c68-ae5b-06628abb4a1c
  - img: b8ba61a1-c129-4514-8f0a-c02c85431e8a
  - img: bbc492c6-a149-4493-9a78-337fbfb5e4ed
  - img: 12b98174-2536-448a-b31c-52ed7b7c7774
+ - img: 52e79482-b93e-4528-9982-f7693a5316c0
  - img: bf6904f8-5ead-4239-a023-589c757eb2c9 
  - img: dd48ac0b-f7c9-4691-9225-20c85359685c
  - img: 8d80240f-c343-4c76-a867-51faf0fe6108
  - img: 2ce82909-9d5c-40de-b0ba-4a0659f5d922
  - img: 05ffc93b-ed01-4eeb-a8a4-7ba5ae7bca98
  - img: 9cef9601-5f7a-49e9-84d3-b3fa0bc893d1
+ - img: b6184362-1903-49bc-94c7-17757267b1d3
 
 photos-baseurl: https://ucarecdn.com/
