@@ -25,7 +25,7 @@ It is nice to receive a personal email message that is thoughtful and meaningful
 ## Dependencies
 
 * [Jekyll Minima](https://github.com/jekyll/minima) is already flexible enough with skins, social media icons, and configuration files.
-* [nanogallery](https://nanogallery2.nanostudio.org) has been implemented as a jekyll minima custom head and a jekyll layout.
+* [nanogallery](https://nanogallery2.nanostudio.org) has been implemented as a jekyll minima custom head and a [jekyll layout](https://jekyllrb.com/docs/layouts/).
 
 ## Alternatives
 
