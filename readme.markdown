@@ -16,8 +16,8 @@ The specification I was looking for included:
 * Git repository for the code, but not for the images.
 * Flexibility to choose the web site theme and the image viewer library.
 
-## Image files are stored in github issues
-In this way, the git history remains clean of files that cannot be tracked. Moreover, github issues provides notifications if you choose to watch the repository. Currently, posting an image also requires to add the image filename in the `_config.yml`. By the way of storing images in github issues, we get out of the box social reactions (including dislikes), tags (labels) and comments. It is yet unclear, whether this is a bug, or a feature.
+## Image files are outsourced
+Image files are hosted and managed by a dedicated Content Delivery Network (CDN). Hosting and delivering multiple image formats according to user device and network is a complicated problem.
 
 ## Slow social features
 It is nice to receive a personal email message that is thoughtful and meaningful. You know, the kind of communication that, not so long ago, people used to have on paper mail, before chat.
@@ -26,6 +26,7 @@ It is nice to receive a personal email message that is thoughtful and meaningful
 
 * [Jekyll Minima](https://github.com/jekyll/minima) is already flexible enough with skins, social media icons, and configuration files.
 * [nanogallery](https://nanogallery2.nanostudio.org) has been implemented as a jekyll minima custom head and a [jekyll layout](https://jekyllrb.com/docs/layouts/).
+* [Uploadcare](https://uploadcare.com) manages the photo delivery and the automatic production of photo thumbnails.
 
 ## Alternatives
 
