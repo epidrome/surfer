@@ -24,7 +24,7 @@ layout: default
   >
   	<!-- content of the gallery -->
         {% for photo in site.photos %}
-		<a href="{{ photo.img  }}/" data-ngthumb="{{  photo.img  }}" data-ngdesc="">{{ photo.img  }}</a>
+		<a href="{{ photo.img  }}/" data-ngthumb="{{  photo.img  }}/-/scale_crop/200x200/center/" data-ngdesc="">{{ photo.img  }}</a>
         {% endfor %}
 
 
