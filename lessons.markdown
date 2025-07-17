@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: lessons.html
-title: Lessons learned through surfing
+title: Lessons 
 ---
 
 In my free time, I like to surf (surfing and windsurfing). Here is a (growing) list of things that i have been learning while surfing:
